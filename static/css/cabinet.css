@@ -1,0 +1,9 @@
+.container-fluid{
+    padding: 0;
+}
+.btn-add{
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    border-radius: 100%;
+}
